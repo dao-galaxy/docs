@@ -1,9 +1,11 @@
-# Tauri Docs
+# DAO Galaxy Docs
 
 [![build](https://github.com/tauri-apps/tauri-docs/actions/workflows/build.yml/badge.svg)](https://github.com/tauri-apps/tauri-docs/actions/workflows/build.yml)
 [![i18n-preview](https://github.com/tauri-apps/tauri-docs/actions/workflows/i18n-preview.yml/badge.svg)](https://github.com/tauri-apps/tauri-docs/actions/workflows/i18n-preview.yml)
 [![Crowdin](https://badges.crowdin.net/e/5a26ffca6fd8022c03485376ac5a082d/localized.svg)](https://tauri.crowdin.com/documentation)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0bc4e65a-3a3a-4074-9401-1f094ecd0508/deploy-status)](https://app.netlify.com/sites/tauri/deploys)
+
+DAO Galaxy 项目的文档模版，来自 https://tauri.app 在此基础上，不断替换新更新内容。
 
 This website is built using [Docusaurus 2], uses [MeiliSearch] for search indexing, is built using GitHub CI runners, and is deployed by [Netlify].
 
